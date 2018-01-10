@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como comecei na computação, minha experiência como desenvolvedor e apoio da Comunidade Python (Lighting Talk) - Python Nordeste 2017"
-date:   2017-06-20 17:28 -0300
+date:   2017-06-11 17:28 -0300
 categories: 
 ---
 Desde cedo fui envolvido na computação, meu primeiro contato com um Desktop foi aos meus 2 anos de idade, até os 10 anos até que o meu irmão Spartacus ingressou no curso de Bacheraledo em Ciência e Tecnologia da Universidade Federal do Maranhão (UFMA), quando eu tinha 11 anos. Spartacus me mostrava como era o curso, o que ele estava estudando, mas eu não demonstrava muito interesse pelo conteúdo. Quando eu tinha 12 anos, um certo dia ele me chamou e me ensinou a fazer um simples Hello World usando Linguagem C e explicando detalhadamente cada linha de código e descrevendo todo o processo de compilação, e a partir desse dia me tornei um apaixonado por programação, logo depois eu pedi a ele para me indicar conteúdos, no mesmo dia pedi também que ele me mostrasse novamente tudo o que ele estudava. Depois desse feedback eu comecei a estudar intensivamente todos os conteúdos que ele estudaba, sem seguir cronograma, só estudei o que me interassava da grade.  
